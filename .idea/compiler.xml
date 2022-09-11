@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="dsmeta" target="17" />
+      <module name="dsmeta" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
